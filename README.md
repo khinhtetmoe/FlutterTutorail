@@ -1,6 +1,9 @@
 # fluttertest2
-
-A new Flutter project.
+In this lesson, I learnt about using Images Widgets.
+We can use Image Widget in two ways.
+First way is using image widget and add properties inside image widget.
+for example, Image(image:NetWorkImage('xxxxxxx')) or Image(image:AssetImage('Assets/xxx.png'))
+Second way is using like this-Image.network('XXX') or Image.asset('Assets/xxx.png')
 
 ## Getting Started
 
